@@ -1,5 +1,9 @@
+<p align="center"><img src="https://github.com/noch3d/LogoForjadores/blob/main/Archivos/Logo%20Forjadores-Color.png?raw=true" alt="Forjadores Logo"></p>
+
 # LogoForjadores
 Un paquete de archivo del logo de Forjadores Hispanos para su uso en contenido creado por usuarios.
+
+Para descargar el archivo zip o el unity package puede hacerlo desde [la version mas reciente publicada aqui](https://github.com/noch3d/LogoForjadores/releases/latest).
 
 # Uso y licensias
 
