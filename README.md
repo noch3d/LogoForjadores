@@ -15,7 +15,7 @@ El uso del logo no implica relación con la comunidad Forjadores Hispanos, ni es
 -	El uso del logo en VRchat tiene que estar bajo los términos y condiciones de VRchat.
 -	No se permite el uso del logo de forma despectiva o que atente en contra de la integridad de la comunidad. Los moderadores de la comunidad se reserva el derecho de condonar el uso especifico si es requerido a futuro.
 -	No se permite el uso del logo o sus derivados de forma comercial o que incurra a actividades ilegales.
--	Dejar claro que el uso que se le de en cualquiera de sus formas tiene que ser claro que el tener el logo no da autoridad para declarar que es una relación con Forjadores o que se aprueba totalmente su uso o que involucre una asociación con forjadores ni declarar que son parte oficial de la comunidad. Así como no impersonalizar a ninguno de los moderadores en el uso de dicho material.
+- El uso que se le dé en cualquiera de sus formas se tiene que dejar claro que no necesariamente significa una relación con la comunidad. Tener el logo no da autoridad para declarar que existe una asociación con Forjadores o que se aprueba totalmente su uso o que involucre una promoción con forjadores ni declarar que son parte oficial de la comunidad. Así como no impersonalizar a ninguno de los moderadores en el uso de dicho material.
 -	Los moderadores nos reservamos el derecho de modificar las reglas anterior mente declaradas, así como la modificación del arte, assets y trademark sin previo aviso.
 
 
